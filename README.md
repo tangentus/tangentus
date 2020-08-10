@@ -1,7 +1,3 @@
-<img src="/Users/trevorbroaddus/vail-ice-skating.JPG" alt="vail-ice-skating" style="zoom:10%; width:75%"/>
-
-
-
 # About Me
 
 ### Personal
