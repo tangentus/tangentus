@@ -7,6 +7,19 @@ body {
     padding: 30px;
 }
 
+.Index {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.Index-items {
+    display: flex;
+    justify-content: space-evenly;
+    width: 25%;
+}
+
 .About {
     display: flex;
     flex-direction: column;
